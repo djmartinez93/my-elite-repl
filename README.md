@@ -19,6 +19,6 @@ application.
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+These guides are for Code2College Elite 101 class.
 
 ### Any optional sections
