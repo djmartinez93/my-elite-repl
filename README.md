@@ -19,6 +19,6 @@ application.
 
 ## Usage
 
-These guides are for Code2College Elite 101 class.
+This is a guide for Code2College Elite 101 students!
 
 ### Any optional sections
